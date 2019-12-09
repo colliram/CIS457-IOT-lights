@@ -4,8 +4,8 @@
 #include <WiFi.h>
 
 //network credentials
-char ssid[] = "BigGirlsDontCry";
-char password[] = "AnimalsAsLeaders";
+char ssid[] = "ExampleNetwork";
+char password[] = "ExamplePassword";
 
 //duplicate command flag
 int prevCmd = -1;
