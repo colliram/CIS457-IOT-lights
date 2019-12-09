@@ -1,0 +1,9 @@
+.stencil/
+.vs/
+.vscode/
+
+node_modules/
+dist/
+www/
+
+*.log

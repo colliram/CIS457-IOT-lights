@@ -1,0 +1,14 @@
+:host {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    background: #fff url("/images/background3.png") no-repeat 0 0;
+}
+
+.body {
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+}

@@ -1,0 +1,10 @@
+@mixin round() {
+    border-radius: 100%;
+}
+
+@mixin clickable() {
+    pointer-events: all;
+    user-select: none;
+    outline: none;
+    cursor: pointer;
+}

@@ -1,0 +1,19 @@
+{
+    "compileOnSave": false,
+    "compilerOptions": {
+        "charset": "utf-8",
+        "strict": true,
+        "experimentalDecorators": true,
+        "lib": [
+            "dom",
+            "es2017"
+        ],
+        "module": "esnext",
+        "moduleResolution": "node",
+        "target": "es2017",
+        "jsx": "react",
+        "jsxFactory": "h"
+    },
+    "include": ["src"],
+    "exclude": ["node_modules"]
+}

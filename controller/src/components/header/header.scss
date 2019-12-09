@@ -1,0 +1,10 @@
+:host {
+    width: 100vw;
+    padding: 10px;
+    display: flex;
+    background-color: $feature;
+    border-bottom: 4px solid black;
+    color: $text;
+    opacity: $blended;
+    justify-content: center;
+}
